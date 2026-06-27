@@ -1,7 +1,6 @@
 - 👋 Yo, I'm @eshatripathi01
-- 🔭 I’m interested in Problem solving code stuff
+- 🧠 I’m interested in Problem solving code stuff
 - 🌱 I’m currently learning DSA,Machine Learning,automation,APIintegration
-- 👯 I’m looking to collaborate on AI projects
-- 💬 Ask me about: NONE
+- 🔭 I’m looking to collaborate on AI projects
 - 📫 How to reach me: eshatripathi2005@gmail.com
 - ⚡ Fun fact: there is nothing like fun
